@@ -1,0 +1,23 @@
+ERASE key:aaa
+ERASE key:123
+INSERT key:1235 value:52593705-3f511e3e-6852fd64-71b9644e-747dc7e8
+FIND key:fhjksdl
+FIND key:1235
+INSERT key:a value:6c84f722-8df7c480-f9f54fa9-605cc5-582eac3c 
+INSERT key:b value:bd6858e4-768de7c7-1b061bf-cf3eca05-dd0dd2cf 
+INSERT key:c value:a0d1ddff-c1f462e5-3e86647-3beabf68-facb990d 
+INSERT key:d value:8acec4e1-1174b734-4b30137e-70e48e42-112bd69e 
+INSERT key:1235 value:52593705-3f511e3e-6852fd64-71b9644e-747dc7e8
+INSERT key:1235 value:hehehaha
+INSERT key:1233 value:hehehaha
+INSERT key:1232 value:hohohoho
+INSERT key:1234 value:hehehaha
+FIND key:1233
+FIND key:1233
+FIND key:1232
+FIND key:1234
+ERASE key:1233
+ERASE key:1233
+FIND key:a
+INSERT key:hehehaha value:52593705-3f511e3e-6852fd64-71b9644e-747dc7e8
+ENUM key: key:
